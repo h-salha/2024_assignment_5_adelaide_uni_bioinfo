@@ -10,3 +10,9 @@
 
 - Initial commit
 
+## [0.1.2] - 2024-10-05
+
+### Changed
+
+- Deleted 'XXXXXX' from Line 3 of data/a1795973.txt 
+

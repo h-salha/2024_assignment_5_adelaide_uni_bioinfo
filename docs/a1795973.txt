@@ -14,5 +14,5 @@
 
 ### Changed
 
-- Deleted 'XXXXXX' from Line 3 of data/a1795973.txt 
+- Deleted 'XXXXXX' from Line 3 of data/a1795973.txt (Fixing Issue #8 https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/8) 
 

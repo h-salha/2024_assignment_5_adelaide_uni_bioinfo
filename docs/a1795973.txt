@@ -15,4 +15,4 @@
 ### Changed
 
 - Deleted 'XXXXXX' from Line 3 of data/a1795973.txt 
-
+- Fixed UPPERCASE bug from Lines 3 and 5 of data/a1795973.txt
